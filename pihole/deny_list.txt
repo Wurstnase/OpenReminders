@@ -5,5 +5,5 @@ https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 https://raw.githubusercontent.com/Wurstnase/OpenReminders/master/pihole/smarttv2.txt
 
 # Migrated from /etc/pihole/adlists.list
-https://mirror.cedia.org.ec/malwaredomains/justdomains
+# https://mirror.cedia.org.ec/malwaredomains/justdomains
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
